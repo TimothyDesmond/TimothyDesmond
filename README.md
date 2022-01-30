@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...Nothing ATM
 - 📫 How to reach me ...Beast one is via Email TimDesmond94@outlook.com
 
-Whats your favorite Powershell mind blow
+What's your favorite PowerShell script?
